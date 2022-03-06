@@ -1,13 +1,10 @@
-## Running React on Repl.it
+## Web 3 Name Service on Polygon Testnet (Mumbai) in React
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Take a look at the ENS website: https://extremedie.github.io/web3-name-service-react/
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+### What can you do ?
+- Connect with MetaMask.
+- Promot to switch to Polygon Mumbai Testnet if selected wallet is not it.
+- Mint an Name Service (.ninja), can add a description too.
+- View a list of minted domains.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
